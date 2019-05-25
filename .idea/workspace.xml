@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47e0f92d-c775-4f22-9270-1b342b106f82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/DEF.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/DEF.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/gui.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/gui.js" afterDir="false" />
+    </list>
+    <ignored path="C:\Users\Muzaffercky\Desktop\Tamerlane Chess\.idea\shelf/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="471900091">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="199" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.105" value="1" />
+          <entry key="project.open.time.107" value="1" />
+          <entry key="project.open.time.108" value="1" />
+          <entry key="project.open.time.109" value="1" />
+          <entry key="project.open.time.111" value="2" />
+          <entry key="project.open.time.114" value="1" />
+          <entry key="project.open.time.118" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.120" value="1" />
+          <entry key="project.open.time.121" value="1" />
+          <entry key="project.open.time.123" value="1" />
+          <entry key="project.open.time.127" value="1" />
+          <entry key="project.open.time.130" value="1" />
+          <entry key="project.open.time.140" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.163" value="1" />
+          <entry key="project.open.time.165" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.2856" value="1" />
+          <entry key="project.open.time.3" value="9" />
+          <entry key="project.open.time.4" value="17" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.5" value="14" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="3" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="4" />
+          <entry key="project.open.time.59" value="4" />
+          <entry key="project.open.time.6" value="10" />
+          <entry key="project.open.time.60" value="4" />
+          <entry key="project.open.time.61" value="5" />
+          <entry key="project.open.time.62" value="4" />
+          <entry key="project.open.time.63" value="6" />
+          <entry key="project.open.time.64" value="6" />
+          <entry key="project.open.time.65" value="5" />
+          <entry key="project.open.time.66" value="3" />
+          <entry key="project.open.time.67" value="6" />
+          <entry key="project.open.time.68" value="4" />
+          <entry key="project.open.time.69" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="3" />
+          <entry key="project.open.time.71" value="3" />
+          <entry key="project.open.time.72" value="6" />
+          <entry key="project.open.time.73" value="5" />
+          <entry key="project.open.time.74" value="2" />
+          <entry key="project.open.time.75" value="2" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.79" value="3" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.82" value="2" />
+          <entry key="project.open.time.84" value="5" />
+          <entry key="project.open.time.85" value="4" />
+          <entry key="project.open.time.86" value="2" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.89" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.open.time.90" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.open.time.97" value="1" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="208" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="13" />
+          <entry key="html" value="76" />
+          <entry key="js" value="239" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="13" />
+          <entry key="HTML" value="76" />
+          <entry key="JavaScript" value="239" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="126" />
+          <entry key="html" value="3991" />
+          <entry key="js" value="58061" />
+          <entry key="txt" value="612" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="126" />
+          <entry key="HTML" value="3991" />
+          <entry key="JavaScript" value="58061" />
+          <entry key="PLAIN_TEXT" value="612" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.compare" value="2" />
+          <entry key="git.branch.merge" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1939798272">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/gui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4335">
+              <caret line="255" selection-start-line="255" selection-end-line="255" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/io.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/makeMove.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/moveGeneration.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10642">
+              <caret line="626" column="9" selection-start-line="626" selection-start-column="9" selection-end-line="626" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/boardC.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9605">
+              <caret line="565" selection-start-line="565" selection-end-line="565" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js/DEF.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3098">
+              <caret line="309" selection-start-line="309" selection-end-line="309" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/HighestRanking.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/ShowSqPceCanMove.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Css still.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Tez" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/js/ShowSquaresInAttacking.js" />
+        <option value="$PROJECT_DIR$/decimeltobinaryConverter.html" />
+        <option value="$PROJECT_DIR$/src/js/Soru 1.html" />
+        <option value="$PROJECT_DIR$/src/js/HighestRanking.js" />
+        <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/src/deneme1.html" />
+        <option value="$PROJECT_DIR$/src/js/örnek pozisyonlar.js" />
+        <option value="$PROJECT_DIR$/deneme1.html" />
+        <option value="$PROJECT_DIR$/src/js/boardC.js" />
+        <option value="$PROJECT_DIR$/src/Css still.css" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/js/io.js" />
+        <option value="$PROJECT_DIR$/src/js/ShowSqPceCanMove.js" />
+        <option value="$PROJECT_DIR$/src/js/makeMove.js" />
+        <option value="$PROJECT_DIR$/src/js/moveGeneration.js" />
+        <option value="$PROJECT_DIR$/src/js/DEF.js" />
+        <option value="$PROJECT_DIR$/src/js/gui.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="650" />
+    <option name="width" value="722" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSCheckFunctionSignatures</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tamerlane Chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tamerlane Chess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tamerlane Chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tamerlane Chess" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tamerlane Chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tamerlane Chess" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="PieceIsOnSq&#9;null&#9;null&#10;PlayerColor&#9;null&#9;null&#10;Moveo&#9;null&#9;null&#10;PROM&#9;null&#9;null&#10;KingIn&#9;null&#9;null&#10;Previous&#9;null&#9;null&#10;MoveIn&#9;null&#9;null&#10;wProm&#9;null&#9;null&#10;Printboard&#9;null&#9;null&#10;Clear&#9;null&#9;null&#10;KingsInGame&#9;null&#9;null&#10;Parse&#9;null&#9;null&#10;addpiece&#9;null&#9;null&#10;MoveOpponetsCitadel&#9;null&#9;null&#10;MakeMove&#9;null&#9;null&#10;Kings&#9;null&#9;null&#10;PrSq&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557140022431" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../satranç/Ch61" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="deneme1.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tamerlane Chess/src/deneme1.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="deneme1.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tamerlane Chess/deneme1.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="deneme1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:54304/Tamerlane Chess/src/deneme1.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:54304/Tamerlane Chess/src/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tamerlane Chess/src/index.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.deneme1.html" />
+      <item itemvalue="JavaScript Debug.deneme1.html (1)" />
+      <item itemvalue="JavaScript Debug.deneme1.html (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.deneme1.html (2)" />
+        <item itemvalue="JavaScript Debug.deneme1.html (1)" />
+        <item itemvalue="JavaScript Debug.deneme1.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47e0f92d-c775-4f22-9270-1b342b106f82" name="Default Changelist" comment="" />
+      <created>1542473163768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542473163768</updated>
+      <workItem from="1542473165188" duration="6012000" />
+      <workItem from="1542479396706" duration="7918000" />
+      <workItem from="1542536733623" duration="10422000" />
+      <workItem from="1542621036352" duration="2479000" />
+      <workItem from="1542624925362" duration="17658000" />
+      <workItem from="1542663666876" duration="479000" />
+      <workItem from="1542742314366" duration="873000" />
+      <workItem from="1542744889442" duration="16026000" />
+      <workItem from="1542838720428" duration="3680000" />
+      <workItem from="1542879945422" duration="2413000" />
+      <workItem from="1542892250486" duration="8048000" />
+      <workItem from="1542978856631" duration="6041000" />
+      <workItem from="1543082475178" duration="10151000" />
+      <workItem from="1543143683201" duration="916000" />
+      <workItem from="1543167070323" duration="3954000" />
+      <workItem from="1543233948609" duration="21911000" />
+      <workItem from="1543311722131" duration="21703000" />
+      <workItem from="1543352103627" duration="3669000" />
+      <workItem from="1543401222719" duration="12266000" />
+      <workItem from="1543421095121" duration="5801000" />
+      <workItem from="1543435117277" duration="1752000" />
+      <workItem from="1543449979655" duration="3542000" />
+      <workItem from="1543483243169" duration="602000" />
+      <workItem from="1543501631996" duration="7111000" />
+      <workItem from="1543574622451" duration="12067000" />
+      <workItem from="1543610510892" duration="5171000" />
+      <workItem from="1543662741909" duration="22660000" />
+      <workItem from="1543745343850" duration="11039000" />
+      <workItem from="1543769120570" duration="3857000" />
+      <workItem from="1543834291037" duration="13415000" />
+      <workItem from="1543852429512" duration="6992000" />
+      <workItem from="1543862088601" duration="3992000" />
+      <workItem from="1543873157252" duration="1099000" />
+      <workItem from="1543953574604" duration="632000" />
+      <workItem from="1544126630925" duration="254000" />
+      <workItem from="1544265588232" duration="13081000" />
+      <workItem from="1544526422127" duration="14933000" />
+      <workItem from="1544565315828" duration="4449000" />
+      <workItem from="1544570049689" duration="242000" />
+      <workItem from="1544601647646" duration="3824000" />
+      <workItem from="1544784789062" duration="1348000" />
+      <workItem from="1544805662535" duration="10021000" />
+      <workItem from="1544873504859" duration="1821000" />
+      <workItem from="1544956175648" duration="5752000" />
+      <workItem from="1544968747897" duration="883000" />
+      <workItem from="1544974346271" duration="3534000" />
+      <workItem from="1545072771840" duration="7045000" />
+      <workItem from="1545084050753" duration="426000" />
+      <workItem from="1545127782853" duration="20152000" />
+      <workItem from="1545209706769" duration="17982000" />
+      <workItem from="1545301324626" duration="12430000" />
+      <workItem from="1545658874699" duration="11443000" />
+      <workItem from="1545731556384" duration="9364000" />
+      <workItem from="1545750162807" duration="4641000" />
+      <workItem from="1545763002332" duration="6455000" />
+      <workItem from="1545814562498" duration="5614000" />
+      <workItem from="1545823249837" duration="2641000" />
+      <workItem from="1545831313585" duration="6250000" />
+      <workItem from="1545911550192" duration="12871000" />
+      <workItem from="1545945515748" duration="553000" />
+      <workItem from="1545989574907" duration="3544000" />
+      <workItem from="1546120710396" duration="2624000" />
+      <workItem from="1546505694705" duration="4148000" />
+      <workItem from="1546595962361" duration="9376000" />
+      <workItem from="1546681300474" duration="217000" />
+      <workItem from="1547146832000" duration="832000" />
+      <workItem from="1547805848457" duration="400000" />
+      <workItem from="1548181650037" duration="687000" />
+      <workItem from="1548320200971" duration="903000" />
+      <workItem from="1548766542680" duration="11603000" />
+      <workItem from="1548842883355" duration="750000" />
+      <workItem from="1548843776734" duration="644000" />
+      <workItem from="1548866076906" duration="20519000" />
+      <workItem from="1548957808057" duration="3858000" />
+      <workItem from="1549006470080" duration="7401000" />
+      <workItem from="1549264739944" duration="15794000" />
+      <workItem from="1549355008902" duration="12053000" />
+      <workItem from="1549385305958" duration="180000" />
+      <workItem from="1549398393502" duration="2592000" />
+      <workItem from="1549442258545" duration="10381000" />
+      <workItem from="1549458339000" duration="756000" />
+      <workItem from="1549477662533" duration="3841000" />
+      <workItem from="1549487135393" duration="1276000" />
+      <workItem from="1549525076306" duration="7393000" />
+      <workItem from="1549538303954" duration="2780000" />
+      <workItem from="1549547689476" duration="2209000" />
+      <workItem from="1549562019278" duration="3094000" />
+      <workItem from="1549614272232" duration="6963000" />
+      <workItem from="1549634456034" duration="385000" />
+      <workItem from="1549648953658" duration="3776000" />
+      <workItem from="1549658242598" duration="377000" />
+      <workItem from="1549819414782" duration="4651000" />
+      <workItem from="1549867878525" duration="1874000" />
+      <workItem from="1549871190135" duration="3500000" />
+      <workItem from="1549901497949" duration="4031000" />
+      <workItem from="1549973333514" duration="4740000" />
+      <workItem from="1549996146905" duration="1828000" />
+      <workItem from="1550043250035" duration="8053000" />
+      <workItem from="1550128710804" duration="6266000" />
+      <workItem from="1550143841071" duration="7619000" />
+      <workItem from="1550240393070" duration="6473000" />
+      <workItem from="1550305804720" duration="10134000" />
+      <workItem from="1550328916308" duration="3445000" />
+      <workItem from="1550342316508" duration="3732000" />
+      <workItem from="1550359394086" duration="1806000" />
+      <workItem from="1550387612932" duration="10585000" />
+      <workItem from="1550407658896" duration="12777000" />
+      <workItem from="1550478533625" duration="6391000" />
+      <workItem from="1550489422037" duration="619000" />
+      <workItem from="1550498172014" duration="3625000" />
+      <workItem from="1550510233175" duration="3708000" />
+      <workItem from="1550563138947" duration="2962000" />
+      <workItem from="1550568692963" duration="1307000" />
+      <workItem from="1550576420383" duration="3235000" />
+      <workItem from="1550590248121" duration="2831000" />
+      <workItem from="1550658833541" duration="9655000" />
+      <workItem from="1550738885007" duration="2704000" />
+      <workItem from="1550750443495" duration="938000" />
+      <workItem from="1550751550538" duration="251000" />
+      <workItem from="1550752120673" duration="253000" />
+      <workItem from="1550752625412" duration="4209000" />
+      <workItem from="1550757933733" duration="997000" />
+      <workItem from="1550833648014" duration="7106000" />
+      <workItem from="1550852985884" duration="7428000" />
+      <workItem from="1550915586919" duration="3253000" />
+      <workItem from="1551022840235" duration="6200000" />
+      <workItem from="1551082863943" duration="4322000" />
+      <workItem from="1551092668063" duration="189000" />
+      <workItem from="1551179808498" duration="12873000" />
+      <workItem from="1551209574344" duration="10000" />
+      <workItem from="1551260839930" duration="4408000" />
+      <workItem from="1551440794302" duration="5129000" />
+      <workItem from="1551454184593" duration="3451000" />
+      <workItem from="1551467350844" duration="3168000" />
+      <workItem from="1551509686671" duration="9642000" />
+      <workItem from="1551529378553" duration="481000" />
+      <workItem from="1551548480217" duration="2948000" />
+      <workItem from="1551594959812" duration="6617000" />
+      <workItem from="1551637769860" duration="3834000" />
+      <workItem from="1551691528507" duration="2342000" />
+      <workItem from="1551697908543" duration="3094000" />
+      <workItem from="1551713995522" duration="15000" />
+      <workItem from="1552027959679" duration="629000" />
+      <workItem from="1552040348689" duration="15759000" />
+      <workItem from="1552150515949" duration="264000" />
+      <workItem from="1552728145452" duration="5618000" />
+      <workItem from="1552739491035" duration="3244000" />
+      <workItem from="1552859386932" duration="10000" />
+      <workItem from="1553112175193" duration="11000" />
+      <workItem from="1553172393323" duration="3000" />
+      <workItem from="1553325421193" duration="231000" />
+      <workItem from="1553351443952" duration="214000" />
+      <workItem from="1553614669836" duration="5694000" />
+      <workItem from="1553674199900" duration="1249000" />
+      <workItem from="1553884033754" duration="9000" />
+      <workItem from="1554312314087" duration="10000" />
+      <workItem from="1554631931722" duration="298000" />
+      <workItem from="1554729462450" duration="728000" />
+      <workItem from="1555148722608" duration="1180000" />
+      <workItem from="1555152650155" duration="2112000" />
+      <workItem from="1555155850463" duration="11722000" />
+      <workItem from="1555179585554" duration="8970000" />
+      <workItem from="1555227094717" duration="11361000" />
+      <workItem from="1555245211897" duration="10369000" />
+      <workItem from="1555326673481" duration="6971000" />
+      <workItem from="1555353875046" duration="5925000" />
+      <workItem from="1555400608450" duration="2248000" />
+      <workItem from="1555418809264" duration="2234000" />
+      <workItem from="1555437463412" duration="7099000" />
+      <workItem from="1555491341748" duration="9666000" />
+      <workItem from="1555505645352" duration="1800000" />
+      <workItem from="1555509898684" duration="6367000" />
+      <workItem from="1555579060756" duration="10241000" />
+      <workItem from="1555608896553" duration="2038000" />
+      <workItem from="1555616927367" duration="2736000" />
+      <workItem from="1555668122549" duration="9133000" />
+      <workItem from="1555702537977" duration="6266000" />
+      <workItem from="1555747717309" duration="5677000" />
+      <workItem from="1555864591909" duration="706000" />
+      <workItem from="1555866637063" duration="3628000" />
+      <workItem from="1555873971533" duration="3275000" />
+      <workItem from="1555945220126" duration="6115000" />
+      <workItem from="1556014334297" duration="9773000" />
+      <workItem from="1556037789526" duration="2818000" />
+      <workItem from="1556095352982" duration="3031000" />
+      <workItem from="1556104072855" duration="10326000" />
+      <workItem from="1556285666720" duration="5286000" />
+      <workItem from="1556308224687" duration="2655000" />
+      <workItem from="1556362201630" duration="5440000" />
+      <workItem from="1556384891937" duration="3804000" />
+      <workItem from="1556390458862" duration="3987000" />
+      <workItem from="1556450845319" duration="4539000" />
+      <workItem from="1556463376273" duration="1376000" />
+      <workItem from="1556528114565" duration="8507000" />
+      <workItem from="1556609406865" duration="1661000" />
+      <workItem from="1556644762978" duration="29927000" />
+      <workItem from="1556782368851" duration="5162000" />
+      <workItem from="1556810475322" duration="9450000" />
+      <workItem from="1556876558145" duration="17697000" />
+      <workItem from="1556918981124" duration="3305000" />
+      <workItem from="1556969379475" duration="4704000" />
+      <workItem from="1556995006805" duration="895000" />
+      <workItem from="1557051516315" duration="622000" />
+      <workItem from="1557084048709" duration="956000" />
+      <workItem from="1557131182577" duration="5960000" />
+      <workItem from="1557143584032" duration="1812000" />
+      <workItem from="1557160218135" duration="590000" />
+    </task>
+    <task id="LOCAL-00001" summary="Sah herhangi bir taş ile değişmesi ve mahkum taşı tehdit etme eksik">
+      <created>1556394868900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556394868900</updated>
+    </task>
+    <task id="LOCAL-00002" summary="şah koruma eksiklikleri tamamlandı">
+      <created>1556452514362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556452514362</updated>
+    </task>
+    <task id="LOCAL-00003" summary="şah herhangi bir taşile yer değişti(eksiklikleri var)">
+      <created>1556532259353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556532259353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="şah herhangi bir taş ile yer değişti EKSİKLİKLER TAMAMLANDI">
+      <created>1556537713426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556537713426</updated>
+    </task>
+    <task id="LOCAL-00005" summary="şah herhangi bir taş ile yer değişti EKSİKLİKLER TAMAMLANDI">
+      <created>1556537765630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556537765630</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tez eklendi">
+      <created>1556538182531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556538182531</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tez eklendi">
+      <created>1556540008612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556540008612</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tez eklendi">
+      <created>1556540069027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556540069027</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tez ekle">
+      <created>1556541338770</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556541338770</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tez ekle">
+      <created>1556559757241</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556559757241</updated>
+    </task>
+    <task id="LOCAL-00011" summary="tez ekle">
+      <created>1556560107811</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556560107811</updated>
+    </task>
+    <task id="LOCAL-00012" summary="tez ekle">
+      <created>1556561023583</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556561023583</updated>
+    </task>
+    <task id="LOCAL-00013" summary="tez ekle">
+      <created>1556562063248</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556562063248</updated>
+    </task>
+    <task id="LOCAL-00014" summary="tez ekle">
+      <created>1556562750927</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556562750927</updated>
+    </task>
+    <task id="LOCAL-00015" summary="düzeltme tamamlandı">
+      <created>1556563171339</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556563171339</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ShowSquarespiececanmove düzeltildi">
+      <created>1556610103803</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1556610103803</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ShowSquarespiececanmove düzeltildi">
+      <created>1556614899600</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1556614899600</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ShowSquaresPieceCanMove düzeltildi">
+      <created>1556614998308</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1556614998308</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ShowSquaresPieceCanMove düzeltildi">
+      <created>1556615019697</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556615019697</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ShowSquaresPieceCanMove düzeltmeler tamamlandı">
+      <created>1556615411944</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556615411944</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Mahkum taş kuralı yazıldı, çatallama kuralı düzeltildi,">
+      <created>1556746922765</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556746922765</updated>
+    </task>
+    <task id="LOCAL-00022" summary="taş isimleri ingilizce yapıldı">
+      <created>1556799109914</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1556799109914</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Taş isimleri düzenlemeye devam">
+      <created>1556818692685</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1556818692685</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Taş isimleri düzenlemeye devam">
+      <created>1556819939692</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1556819939692</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Taş isimleri düzenlemeye devam">
+      <created>1556820347305</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1556820347305</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Taş isimleri düzenlemeye devam">
+      <created>1556824490580</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1556824490580</updated>
+    </task>
+    <task id="LOCAL-00027" summary="protectedKing düzenlendi">
+      <created>1556880694059</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1556880694059</updated>
+    </task>
+    <task id="LOCAL-00028" summary="değişken isimleri ingilizce yapıldı">
+      <created>1556908692554</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1556908692554</updated>
+    </task>
+    <task id="LOCAL-00029" summary="piyonların eksiklikleri tamamlandı">
+      <created>1556973688776</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556973688776</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1127678000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.006557377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50378215" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49621785" weight="0.32459018" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.06393442" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24962178" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07942511" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.006557377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50378215" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49621785" weight="0.32459018" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.06393442" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24962178" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sah herhangi bir taş ile değişmesi ve mahkum taşı tehdit etme eksik" />
+    <MESSAGE value="şah koruma eksiklikleri tamamlandı" />
+    <MESSAGE value="şah herhangi bir taşile yer değişti(eksiklikleri var)" />
+    <MESSAGE value="şah herhangi bir taş ile yer değişti EKSİKLİKLER TAMAMLANDI" />
+    <MESSAGE value="Tez eklendi" />
+    <MESSAGE value="deneme" />
+    <MESSAGE value="tez ekle" />
+    <MESSAGE value="düzeltme tamamlandı" />
+    <MESSAGE value="ShowSquarespiececanmove düzeltildi" />
+    <MESSAGE value="ShowSquaresPieceCanMove düzeltildi" />
+    <MESSAGE value="ShowSquaresPieceCanMove düzeltmeler tamamlandı" />
+    <MESSAGE value="Mahkum taş kuralı yazıldı, çatallama kuralı düzeltildi," />
+    <MESSAGE value="taş isimleri ingilizce yapıldı" />
+    <MESSAGE value="Taş isimleri düzenlemeye devam" />
+    <MESSAGE value="protectedKing düzenlendi" />
+    <MESSAGE value="değişken isimleri ingilizce yapıldı" />
+    <MESSAGE value="piyonların eksiklikleri tamamlandı" />
+    <option name="LAST_COMMIT_MESSAGE" value="piyonların eksiklikleri tamamlandı" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/jq.js" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/html kodları/deneme1.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/html kodları/deneme9.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/html kodları/deneme7.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/html kodları/deneme11.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/html kodları/deneme10.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/sayfa tasarımı/css.css" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/Ders25-Uygulamalar/uygulama31/stil.css" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/Javascript kodları/jquery kodları/jq12.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/Javascript kodları/jquery kodları/jq11.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/Javascript kodları/jquery kodları/js/submit selector.js" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/Javascript kodları/zaman fonksiyonları5.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/Javascript kodları/nesne metodları.html" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/Javascript kodları/jquery kodları/js/jq12.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/ShowSquaresInAttacking.js" />
+    <entry file="file://$PROJECT_DIR$/../Web tasarım/Javascript kodları/javascript giriş.html" />
+    <entry file="file://$PROJECT_DIR$/decimeltobinaryConverter.html" />
+    <entry file="file://$PROJECT_DIR$/src/js/Soru 1.html" />
+    <entry file="file://$PROJECT_DIR$/src/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4233" column="11" selection-start-line="4233" selection-start-column="11" selection-end-line="4233" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deneme1.html" />
+    <entry file="file://$PROJECT_DIR$/deneme1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/örnek pozisyonlar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1811">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/gui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4335">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/io.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/makeMove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/moveGeneration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10642">
+          <caret line="626" column="9" selection-start-line="626" selection-start-column="9" selection-end-line="626" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/boardC.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9605">
+          <caret line="565" selection-start-line="565" selection-end-line="565" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/HighestRanking.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/ShowSqPceCanMove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Css still.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/DEF.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3098">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
