@@ -1,22 +1,7 @@
+#Tamerlane Chess
+Tamerlane chess consists of 10 * 11 dimensions and different chess pieces. Each player has 28 pieces at the start of the game. Detailed rules of the game can be found at the link below. Program The rules of the game are fully coded so that 2 players can play against each other. However, the paintings representing the peieces were prepared amateurly, so I need professional ones. Please contact me to contribute.<br/>
 
-  
-  
-  <Timurlenk chess is a chess type consisting of 10 * 11 sizes of wood and new stones.>
-    Copyright (C) <2019>  <Muzaffer CIKAY>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    
-I need professional images that symbolize the chess pieces, please contact me to contribute.<br/>
-muzaffer123cikay@gmail.com
+E-mail: muzaffer123cikay@gmail.com<br/><br/>
+[Rules of Tamerlane chess(Youtube Channel)](https://www.youtube.com/channel/UCRB8w2VcxnLTUVJ2OeLtvYw)
+[Rules of Tamerlane chess(Wikipedia)](https://en.wikipedia.org/wiki/Tamerlane_chess)
 
